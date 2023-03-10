@@ -1,2 +1,1 @@
-My readme on shell basics
-
+0x00. Shell, basics
