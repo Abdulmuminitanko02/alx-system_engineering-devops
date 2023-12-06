@@ -1,0 +1,3 @@
+#!/bin/bash
+current_directory = os.path.abspath(os.getcwd())
+print("Current Working Directory:", current_directory)
